@@ -1,9 +1,13 @@
 _repo: Emilia-Galotti-Murhenaytelma-viidessa-naytoksessa_46488
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Blom, Erik Joh.
     gutenberg_agent_id: '43825'
     url: http://www.gutenberg.org/2009/agents/43825
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lessing, Gotthold Ephraim
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/990
     wikipedia: http://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46488#Emilia-Galotti-Murhenaytelma-viidessa-naytoksessa
 gutenberg_issued: '2014-08-03'
 gutenberg_type: Text
 identifiers:
